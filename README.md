@@ -15,7 +15,7 @@
   <img align="center" alt="Raíssa-C" height="30" width="30" src="https://img.icons8.com/color/512/c-programming.png" />
   <img align="center" alt="Raíssa-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Raíssa-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img align="center" alt="Raíssa-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Raíssa-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="Raíssa-Scratch" height="30" width="70" src="https://store-images.s-microsoft.com/image/apps.23276.14205598541777108.d0471565-31cc-4061-beba-0830f2c9a787.69d1f503-8ef3-4838-84cb-f5bdd690c9e8" />
  </div>
  <br>
